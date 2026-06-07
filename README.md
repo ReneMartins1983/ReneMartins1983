@@ -1,9 +1,21 @@
 # Olá, eu sou o Rene Martins 👋
 
-**Desenvolvedor Full Stack** · PHP / Laravel · 4+ anos de experiência
+**Desenvolvedor Full Stack** · PHP / Laravel · **4+ anos de experiência em produção**
 
-Atuo no ciclo completo de desenvolvimento web — modelagem de banco, APIs REST,
-regras de negócio e interfaces — com foco em **código limpo, testes e boas práticas**.
+Construo aplicações web com regras de negócio complexas, APIs REST, relatórios
+e integrações — com foco em **código limpo, testes e boas práticas**.
+
+---
+
+## 💼 Experiência
+
+**Desenvolvedor Full Stack — ConnectFarm** · desde 2021
+Desenvolvimento full stack de uma **plataforma web em produção**: módulos com
+regras de negócio complexas, **relatórios analíticos**, integração de APIs,
+**visualização de dados geográficos** (mapas) e otimização de performance (SQL).
+
+> A maior parte do meu trabalho é em **código privado/proprietário**. Abaixo,
+> projetos pessoais abertos que mantenho para explorar tecnologias e demonstrar na prática.
 
 ---
 
@@ -21,7 +33,10 @@ regras de negócio e interfaces — com foco em **código limpo, testes e boas p
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos pessoais
+
+> Projetos abertos que construí para explorar tecnologias e demonstrar na prática
+> (meu trabalho principal é em código privado).
 
 ### 🧩 [CVForge](https://github.com/ReneMartins1983/CVForge) — gerador de currículos
 Monte currículos profissionais com **prévia ao vivo**, 11 modelos (com/sem foto) e exportação em PDF.
