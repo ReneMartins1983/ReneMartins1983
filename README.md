@@ -57,8 +57,13 @@ Gestão de clientes e atendimentos: **funil (kanban) com arrastar-e-soltar**, fo
 **Stack:** Laravel 12 · Livewire 3 · Tailwind · MySQL · Docker
 🌐 **[Demo ao vivo](https://clientela.onrender.com)** _(demo@clientela.app / password)_ · 📂 [Código](https://github.com/ReneMartins1983/Clientela)
 
-> Juntos, os três cobrem as principais abordagens de front-end do ecossistema Laravel
-> — **Blade + Alpine**, **Vue 3 + API REST** e **Livewire** — todos dockerizados, testados e com CI.
+### 💰 [FinTrack](https://github.com/ReneMartins1983/FinTrack) — controle de finanças pessoais
+Lançamentos, categorias, contas, **orçamentos** e **dashboard com gráficos** (Chart.js).
+**Stack:** Laravel 12 · Inertia · Vue 3 · Tailwind · MySQL · Docker
+🌐 **[Demo ao vivo](https://fintrack-0g67.onrender.com)** _(demo@fintrack.app / password)_ · 📂 [Código](https://github.com/ReneMartins1983/FinTrack)
+
+> Juntos, eles cobrem as principais abordagens de front-end do ecossistema Laravel
+> — **Blade + Alpine**, **Vue 3 + API REST**, **Livewire** e **Inertia + Vue** — todos dockerizados, testados e com CI.
 
 ---
 
