@@ -1,6 +1,6 @@
 # Olá, eu sou o Renê Martins 👋
 
-**Desenvolvedor Full Stack** · PHP / Laravel · **4+ anos de experiência em produção**
+**Desenvolvedor Full Stack** · PHP / Laravel · **5+ anos de experiência em produção**
 
 Construo aplicações web com regras de negócio complexas, APIs REST, relatórios
 e integrações — com foco em **código limpo, testes e boas práticas**.
