@@ -31,6 +31,10 @@ regras de negócio complexas, **relatórios analíticos**, integração de APIs,
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
+🤖 **Desenvolvimento assistido por IA** — uso Claude, ChatGPT e Copilot para acelerar
+prototipação, revisão de código e documentação, **mantendo as decisões de arquitetura
+e a qualidade sob meu controle**.
+
 ---
 
 ## 🚀 Projetos pessoais
